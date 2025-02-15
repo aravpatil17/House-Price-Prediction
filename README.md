@@ -34,7 +34,7 @@ pip install -r requirements.txt
 - Deploying the model as a web application.
 
 ## Author
-[Your Name]
+Arav Patil
 
 ## License
 This project is licensed under the MIT License.
